@@ -1,0 +1,7 @@
+pod "MGSMusicBrainzLib", :path => "../MGSMusicBrainzLib.podspec"
+
+target "Demo" do
+end
+
+target "DemoTests" do
+end
